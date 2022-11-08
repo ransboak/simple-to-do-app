@@ -1,0 +1,13 @@
+.container{
+    margin: 20% 0 0 40%;
+}
+.buttons{
+    gap: 2rem;
+}
+.task{
+    align-items: center;
+    gap: 4.5rem;
+}
+.tick{
+    background: transparent;
+}
